@@ -1,0 +1,4 @@
+f = ( a + b ) * c ;
+pi = 314 ;
+radio / pi * 2 ;
+circulo = f + 12 ;

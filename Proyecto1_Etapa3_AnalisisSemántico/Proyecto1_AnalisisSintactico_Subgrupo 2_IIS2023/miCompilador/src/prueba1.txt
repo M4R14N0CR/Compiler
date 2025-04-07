@@ -1,0 +1,6 @@
+mivariable = 3 ;
+miconstante = 2 ;
+a = 42 ;
+b = a / 7 + ( 40 * miconstante ) - 33 ;
+c = ( a + b ) * 2 ;
+b * a + b / ( mivariable ) ;

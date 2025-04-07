@@ -1,0 +1,12 @@
+masa = 8 ;
+gravedad = 9 ;
+( masa * gravedad ) / 2 ;
+
+fb = 1 ;
+fcinetica = 1500 ;
+fpotencial = 37 ;
+fa = fb - fcinetica + fpotencial ;
+
+bet = masa ;
+sig = fb ;
+maria = bet * sig ;

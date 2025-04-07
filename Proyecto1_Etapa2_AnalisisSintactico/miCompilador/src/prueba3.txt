@@ -1,0 +1,4 @@
+( masa * gravedad ) / 2 ;
+fa = fb - fcinetica + fpotencial ;
+maria = bet * sig ;
+g = ( d - e ) * ( x + y ) ;

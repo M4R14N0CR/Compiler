@@ -1,0 +1,4 @@
+aRboL =42;
+b89012 = a - 7 ;
+c90/ = (a+b) * 2;
+costaricamipatriaquerida = (z+t) * 2;

@@ -1,0 +1,4 @@
+Clave: suma, Valor: IDENTIFICADOR
+Clave: a, Valor: IDENTIFICADOR
+Clave: c, Valor: IDENTIFICADOR
+Clave: dos, Valor: IDENTIFICADOR

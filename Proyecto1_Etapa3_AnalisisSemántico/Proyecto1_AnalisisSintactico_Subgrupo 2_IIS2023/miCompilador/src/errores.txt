@@ -1,0 +1,8 @@
+a = 42 ;
+c = ( a + b * 2 ) ;
+
+variable + c ;
+
+dos = 2 ;
+suma = dos + tres ;
+( 2 + 2 + 3 * 5 / k ) * suma ;
